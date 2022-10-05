@@ -17,7 +17,7 @@ Familiar: Networking, Database, Flutter, Server, Cyber Security, Data Science, D
 
 - 🤝 I’m looking for help with **all others community building leaders.**
 
-- 📝 I started writing articles on [https://medium.com/ and https://www.geeksforgeeks.org/](https://medium.com/ and https://www.geeksforgeeks.org/)
+- 📝 I started writing articles on [https://medium.com/ and https://www.geeksforgeeks.org/]
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Project Management, Career Counseling and Students Programs.**
 

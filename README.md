@@ -1,27 +1,20 @@
 <h1 align="center">Hi 👋, I'm BAHADUR AHMED KHAN</h1>
 <h3 align="center">I'm a forward-thinking Product Manager driven by a deep passion for building impactful digital solutions. My career aspiration is not just about reaching the top; it's about redefining what's possible. Imagine a CEO who not only leads but also inspires change on a global scale.</h3>
  
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img src="https://komarev.com/ghpvc/?username=bahadurahmedkhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Certifications-505%2B-blueviolet?style=flat&logo=openbadges&logoColor=white" alt="certifications" />
-    </td>
-    <td align="right">
-      <span>
-        <img src="https://img.shields.io/badge/Student%20Ambassador-Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Ambassador" />
-        <img src="https://img.shields.io/badge/Student%20Ambassador-Google-4285F4?style=flat&logo=google&logoColor=white" alt="Google Ambassador" />
-        <img src="https://img.shields.io/badge/Student%20Ambassador-Huawei-D6001C?style=flat&logo=huawei&logoColor=white" alt="Huawei Ambassador" />
-        <img src="https://img.shields.io/badge/ML%20Facilitator-Google-brightgreen?style=flat&logo=google&logoColor=white" alt="ML Facilitator" />
-      </span>
-    </td>
-  </tr>
-</table>
+ <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bahadurahmedkhan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Certifications-500%2B-blueviolet?style=flat" alt="certifications" />
+  <img src="https://img.shields.io/badge/Student%20Ambassador-Microsoft-blue?style=flat" alt="Microsoft Ambassador" />
+  <img src="https://img.shields.io/badge/Student%20Ambassador-Google-4285F4?style=flat" alt="Google Ambassador" />
+  <img src="https://img.shields.io/badge/Student%20Ambassador-Huawei-red?style=flat" alt="Huawei Ambassador" />
+  <img src="https://img.shields.io/badge/ML%20Facilitator-Google-brightgreen?style=flat" alt="Google ML Facilitator" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahadurahmedkhan" alt="bahadurahmedkhan" /></a> </p>
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahadurahmedkhan" alt="bahadurahmedkhan" /></a> </p>
 
 - 🔭 I’m currently working on **product development efforts across multiple SaaS platforms — transforming ideas into scalable, user-centric solutions. Most recently, I’ve contributed to the success of projects like 24/7 Truckin, Heylo System, and V-Turbo Tech.AI, where I’ve played hybrid roles in product ownership, UX, and agile delivery.**
 
@@ -38,6 +31,51 @@
 - 📫 How to reach me **cap.bak10@gmail.com**
 
 - ⚡ Fun fact **Netflix? I haven’t watch a single season there.**
+
+
+<h3 align="left">🧠 Tools & Platforms I’m Expert In</h3>
+<p align="left">
+  <!-- Azure DevOps -->
+  <a href="https://azure.microsoft.com/" target="_blank" title="Azure DevOps">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure DevOps" width="40" height="40"/>
+  </a>
+
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira" target="_blank" title="Jira">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
+  </a>
+
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" title="Figma">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+
+  <!-- Cursor IDE -->
+  <a href="https://cursor.com/" target="_blank" title="Cursor IDE">
+    <img src="https://cursor.com/favicon.ico" alt="Cursor IDE" width="40" height="40"/>
+  </a>
+
+  <!-- Zapier -->
+  <a href="https://zapier.com/" target="_blank" title="Zapier">
+    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
+  </a>
+
+  <!-- Asana -->
+  <a href="https://asana.com/" target="_blank" title="Asana">
+    <img src="https://cdn.worldvectorlogo.com/logos/asana-1.svg" alt="Asana" width="40" height="40"/>
+  </a>
+
+  <!-- Notion -->
+  <a href="https://www.notion.so/" target="_blank" title="Notion">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
+  </a>
+
+  <!-- AI Chatbots (ChatGPT) -->
+  <a href="https://openai.com/chatgpt" target="_blank" title="ChatGPT / AI Chatbots">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/>
+  </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

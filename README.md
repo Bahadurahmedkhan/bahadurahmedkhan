@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋, I'm BAHADUR AHMED KHAN</h1>
 <h3 align="center">I'm a forward-thinking Product Manager driven by a deep passion for building impactful digital solutions. My career aspiration is not just about reaching the top; it's about redefining what's possible. Imagine a CEO who not only leads but also inspires change on a global scale.</h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bahadurahmedkhan&label=Profile%20views&color=0e75b6&style=flat" alt="bahadurahmedkhan" /> </p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=bahadurahmedkhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Certifications-505%2B-blueviolet?style=flat&logo=openbadges&logoColor=white" alt="certifications" />
+    </td>
+    <td align="right">
+      <span>
+        <img src="https://img.shields.io/badge/Student%20Ambassador-Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Ambassador" />
+        <img src="https://img.shields.io/badge/Student%20Ambassador-Google-4285F4?style=flat&logo=google&logoColor=white" alt="Google Ambassador" />
+        <img src="https://img.shields.io/badge/Student%20Ambassador-Huawei-D6001C?style=flat&logo=huawei&logoColor=white" alt="Huawei Ambassador" />
+        <img src="https://img.shields.io/badge/ML%20Facilitator-Google-brightgreen?style=flat&logo=google&logoColor=white" alt="ML Facilitator" />
+      </span>
+    </td>
+  </tr>
+</table>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahadurahmedkhan" alt="bahadurahmedkhan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bahadurahmedk10" target="blank"><img src="https://img.shields.io/twitter/follow/bahadurahmedk10?logo=twitter&style=for-the-badge" alt="bahadurahmedk10" /></a> </p>
 
 - 🔭 I’m currently working on **product development efforts across multiple SaaS platforms — transforming ideas into scalable, user-centric solutions. Most recently, I’ve contributed to the success of projects like 24/7 Truckin, Heylo System, and V-Turbo Tech.AI, where I’ve played hybrid roles in product ownership, UX, and agile delivery.**
 
